@@ -1,0 +1,178 @@
+@media only screen and (max-width: 1100px) {
+
+	header {
+		padding: 15px;
+	}
+
+	.header-wrap {
+		display: block;
+	}
+
+	.header-wrap div {
+		margin: auto;
+	}
+
+	.header-wrap nav {
+		margin: 10px auto;
+	}
+
+	.feauters-desc, .feauters-img {
+		width: auto;
+		margin: auto;
+	}
+
+	.feauters .content {
+		padding: 0;
+		text-align: center;
+	}
+
+	.feauters-info, .feauters-work {
+		padding: 0 15px;
+	}
+
+	.feauters-info {
+		margin-bottom: 30px;
+	}
+
+	.feauters .find-gift-button, 
+	.feauters .learn-more-button {
+		margin: auto;
+		margin-bottom: 30px;
+	}
+
+	.occasions {
+		padding: 15px;
+	}
+
+	.occasions .wrap {
+		padding: 0;
+	}
+
+	.occasions-card-item {
+		margin: auto;
+	}
+
+	.cta .wrap {
+		padding: 15px 0;
+	}
+
+	.occasions-cards {
+		padding-top: 30px;
+	}
+
+	.cta-info {
+		text-align: center;
+		margin-bottom: 15px;
+	}
+
+	.cta-buttons {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.button-primary {
+		margin-bottom: 15px;
+	}
+
+	.blogs .wrap {
+		padding: 0 15px;
+	}
+
+	.blog-card-img {
+		width: 100%;
+	}
+
+	.blog-card h3 {
+		margin: 20px 0;
+	}
+
+	.blog-card-info {
+		margin: 20px 50px;
+	}
+
+	.blog-subcards {
+		margin: 15px 0;
+	}
+
+	.blog-subcard {
+		margin: auto;
+		padding: 25px;
+	}
+
+	footer {
+		padding: 20px 15px;
+	}
+
+	footer nav {
+		max-width: 100%;
+	}
+
+	.footer-nav {
+		justify-content: space-between;
+	}
+
+	.footer-nav li {
+		padding: 0;
+		justify-content: space-around;
+	}
+
+	.footer-logo  {
+		padding: 0!important;
+	}
+
+	footer .line {
+		width: 90%;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

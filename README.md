@@ -1,1 +1,1 @@
-- [Адаптивная верстка](hhttps://jamboooooo.github.io/giftFinder/)
+- [Адаптивная верстка](https://jamboooooo.github.io/giftFinder/)
